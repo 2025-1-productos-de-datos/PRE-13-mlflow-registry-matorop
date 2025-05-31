@@ -1,3 +1,6 @@
+# mlflow run --env-manager=local -e knn -P n_neighbors=5 .
+# mlflow run --env-manager=local -e elasticnet -P alpha=0.5 -P l1_ratio=0.5 .
+
 PASO 1.
 Corridas de ejemplo para tener mas de un modelo:
 
